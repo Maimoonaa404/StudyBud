@@ -5,7 +5,7 @@ StudyBud is a Django-based web application that allows users to create discussio
 
 This project demonstrates backend development fundamentals, database integration, and full CRUD implementation using Django.
 
-Features
+Features:
 
 User authentication (Login / Register / Logout)
 
@@ -21,7 +21,7 @@ User profile pages
 
 Database-driven content management
 
- Tech Stack
+ Tech Stack:
 
 Backend: Python, Django
 
@@ -31,7 +31,7 @@ Frontend: HTML, CSS
 
 Version Control: Git
 
- Key Concepts Implemented
+ Key Concepts Implemented:
 
 Django ORM relationships
 
@@ -47,7 +47,7 @@ Template inheritance
 
 Database migrations
 
- Installation & Setup
+ Installation & Setup:
 
 Create a virtual environment:
 
@@ -80,7 +80,7 @@ Start the development server:
 
 python manage.py runserver
 
-📌 Future Improvements
+Future Improvements:
 
 Deploy to cloud (AWS / Render / Railway)
 
