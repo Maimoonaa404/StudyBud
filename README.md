@@ -1,11 +1,12 @@
- StudyBud – Community Discussion Platform
-Overview
+# **StudyBud – Community Discussion Platform**
+
+## **Overview**
 
 StudyBud is a Django-based web application that allows users to create discussion rooms, explore topics, and engage in conversations. The platform supports authentication, topic-based filtering, and dynamic search functionality.
 
 This project demonstrates backend development fundamentals, database integration, and full CRUD implementation using Django.
 
-Features:
+## **Features**
 
 User authentication (Login / Register / Logout)
 
@@ -21,17 +22,17 @@ User profile pages
 
 Database-driven content management
 
- Tech Stack:
+## **Tech Stack**
 
-Backend: Python, Django
+**Backend**: Python, Django
 
-Database: SQLite 
+**Database**: SQLite 
 
-Frontend: HTML, CSS
+**Frontend**: HTML, CSS
 
-Version Control: Git
+**Version Control**: Git
 
- Key Concepts Implemented:
+ ## **Key Concepts Implemented**
 
 Django ORM relationships
 
@@ -47,14 +48,14 @@ Template inheritance
 
 Database migrations
 
- Installation & Setup:
+ ## **Installation & Setup**
 
-Create a virtual environment:
+### **Create a virtual environment**
 
 python -m venv venv
 
 
-Activate the virtual environment:
+### **Activate the virtual environment**
 
 Windows:
 
@@ -66,21 +67,21 @@ Mac/Linux:
 source venv/bin/activate
 
 
-Install dependencies:
+### **Install dependencies**
 
 pip install -r requirements.txt
 
 
-Run migrations:
+### **Run migrations**
 
 python manage.py migrate
 
 
-Start the development server:
+### **Start the development server**
 
 python manage.py runserver
 
-Future Improvements:
+## **Future Improvements**
 
 Deploy to cloud (AWS / Render / Railway)
 
